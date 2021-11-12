@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+laserreconstruction/Rang03_Ligne41_60-pruned-colored.txt
+laserreconstruction/summertree.xyz
+laserreconstruction/wintertree.xyz
