@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/openalea-training/niab_workshop/HEAD?labpath=%2Ftree%2Fmain%2Flpytraining)
+
 # NIAB workshop Agenda
 
 Frederic Boudon & Christophe Pradal
