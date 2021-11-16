@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/openalea-training/niab_workshop/HEAD?labpath=%2Ftree%2Fmain%2Flpytraining)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/openalea-training/niab_workshop/HEAD?labpath=lpytraining)
 
 # NIAB workshop Agenda
 
